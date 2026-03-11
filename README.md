@@ -10,5 +10,6 @@
 </kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<kbd><img width="500" height="500" alt="localhost_57915_" src="https://github.com/user-attachments/assets/9c34497f-231b-4bec-a928-25628abbea27" /></kbd>
+<kbd><img width="500" height="500" alt="localhost_57915_ (1)" src="https://github.com/user-attachments/assets/1460e869-155a-49b0-809b-359a7a072521" /></kbd>
 <kbd><img width="500" height="500" alt="localhost_57915_" src="https://github.com/user-attachments/assets/e34afe3e-2101-42dc-92b1-e72696216a7e" /></kbd>
+
