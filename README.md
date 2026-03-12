@@ -41,7 +41,7 @@
 หน้ารวมคอนแทคของร้านเค้กทั้งหมด ผู้ใช้สามารถกดเพื่อติดต่อร้านได้ทันที
 
 <p align="center">
-<img width="300" src="https://github.com/user-attachments/assets/e34afe3e-2101-42dc-92b1-e72696216a7e"/>
+<img width="300" hight:"500" src="https://github.com/user-attachments/assets/e34afe3e-2101-42dc-92b1-e72696216a7e"/>
 </p>
 
 ---
